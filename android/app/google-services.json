@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50796510527",
+    "project_id": "food-recipe-944de",
+    "storage_bucket": "food-recipe-944de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50796510527:android:0838164eedfb540fd8e78a",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFApCdUfW5rskSMjwpTpCY7T4JowRBapk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50796510527:android:44c474c9f9564742d8e78a",
+        "android_client_info": {
+          "package_name": "com.example.rasoi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFApCdUfW5rskSMjwpTpCY7T4JowRBapk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
